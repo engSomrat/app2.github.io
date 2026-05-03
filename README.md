@@ -35,10 +35,8 @@
 </head>
 <body>
 
-  <marquee behavior="scroll" direction="left">
-    ЁЯФ╢ЁЯФ╢ XmT-  ржЖржорж░рж╛ рж╣рзНржпрж╛ржХрж╛рж░ ржиржЗ, ржмрж░ржВ ржжрзЗрж╢ржкрзНрж░рзЗржорж┐ржХ ржкрзНрж░ржпрзБржХрзНрждрж┐ ржпрзЛржжрзНржзрж╛ред
-ржЖржорж░рж╛ ржЖржХрзНрж░ржоржг ржирзЯ, ржкрзНрж░рждрж┐рж░ржХрзНрж╖рж╛ ржХрж░рж┐ред
-  </marquee>
+  <marquee behavior="scroll" direction="left"><h1><font color="red">
+    Team By : DaD Haxor DH2 </h1> </marquee>
 
 
 
@@ -48,7 +46,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Cyber XmT</title>
+  <title>Dad Haxor DH2</title>
   <style>
     body {
       background-color: black;
@@ -361,15 +359,15 @@
 
   <!-- New Image at Top -->
   <a href="https://ibb.co/0y07dytL">
-    <img src="https://i.ibb.co/d4NTz4gv/1751520303405.jpg" alt="1751520303405" border="0">
+    <img src="https://a.top4top.io/p_377511vtk0.png" alt="1751520303405" border="0">
   </a>
   <br />
   <a target="_blank" href="https://usefulwebtool.com/fr/clavier-mathematique"></a>
 
   <!-- Buttons -->
   <div>
-    <button onclick="toggleInfo('developer')">ЁЯСитАНЁЯТ╗ Developer Info</button>
-    <button onclick="toggleInfo('team')">ЁЯСе Team Info</button>
+    <button onclick="toggleInfo('developer')">Developer Info</button>
+    <button onclick="toggleInfo('team')"> Team Info</button>
     <button onclick="toggleInfo('support')">ЁЯЫая╕П Support</button>
   </div>
 
@@ -379,30 +377,30 @@
     <a href="https://ibb.co/WWT4xB0g">
       
     </a>
-    <p><strong>ржирж╛ржо:</strong> Ashraful islam Apurba    21Jul2025</p>
-    <p><strong>Facebook:</strong> <a href="https://www.facebook.com/arfan.nisu.31945" target="_blank">facebook.com/arfan.nisu.31945</a></p>
-    <p><strong>Telegram ID:</strong> @MRApurba1</p>
+    <p><strong>ржирж╛ржо:</strong> Abu Taher 1Jul2026</p>
+    <p><strong>Facebook:</strong> <a href="https://www.facebook.com/SoMrat0X" target="_blank">facebook.com/arfan.nisu.31945</a></p>
+    <p><strong>Telegram ID:</strong> @Dad_HaxorDH2</p>
   </div>
 
   <!-- Team Info -->
   <div id="team" class="info-box">
-    <h2>ЁЯЪй Team Info</h2>
-    <p>Team Name: Bangladesh Anonymous Cyber Force</p>
-    <p>Mission: ржирж┐рж░рж╛ржкржж ржбрж┐ржЬрж┐ржЯрж╛рж▓ ржмрж╛ржВрж▓рж╛ржжрзЗрж╢ ржЧрзЬрж┐ ЁЯТ╗</p>
-    <p>Work Type: Online Report, Awareness & Cyber Support</p>
-    <p><strong>Facebook Page:</strong> <a href="https://www.facebook.com/profile.php?id=100094443361093" target="_blank">Visit Team Page</a></p>
+    <h2>Team Info</h2>
+    <p>Team Name: Dad Haxor DH2</p>
+    <p>Mission: da4k0xmt.h3x Page</p>
+    <p>Work Type: Hacks</p>
+    <p><strong>Facebook Page:</strong> <a href="https://www.facebook.com/DadHaxor2" target="_blank">Visit Team Page</a></p>
   </div>
 
   <!-- Support Info -->
   <div id="support" class="info-box">
-    <h2>ЁЯЫая╕П Support</h2>
+    <h2>Team Support</h2>
     <p>Need Help? Visit our useful tools page below:</p>
-    <p><a href="https://ashrafulislam839272.github.io/support/" target="_blank">ржПржЦрж╛ржирзЗ ржХрзНрж▓рж┐ржХ ржХрж░рзБржи </a></p>
+    <p><a href="https://hackforums.net/" target="_blank">Come join our team. </a></p>
   </div>
 
   <!-- Warning -->
   <div class="warning">
-    я╕П ржжрзЯрж╛ ржХрж░рзЗ ржХрзЗржЙ ржЦрж╛рж░рж╛ржк ржХрж╛ржЬрзЗ ржмрзНржпржмрж╣рж╛рж░ ржХрж░ржмрзЗржи ржирж╛ я╕П
+    I do any kind of work for money.We do bad and good things according to our needs, but we are crazy for truth and justice and for the welfare of people.
   </div>
 
   <!-- Script to Toggle Info Sections -->
